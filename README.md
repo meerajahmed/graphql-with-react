@@ -1,2 +1,2 @@
 # graphql-with-react
-GraphQL with React
+Learning GraphQL with React
